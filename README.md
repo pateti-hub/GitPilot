@@ -124,3 +124,4 @@ pytest -q
 - Web UI on top of the same API
 - Multi-repo chat by relaxing the `repo_id` filter
 "# Gitpilot" 
+"# GitPilot" 
