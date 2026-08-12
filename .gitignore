@@ -1,0 +1,14 @@
+# Secrets - NEVER commit these
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# GitPilot runtime data (cloned repos, vector index, SQLite db)
+data/
+
+# OS noise
+.DS_Store
